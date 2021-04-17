@@ -1,0 +1,31 @@
+10
+你 我 讯息已收到 单纵队 集合
+1 3 7 8 9
+False
+好
+2
+False
+
+
+True
+为
+4
+False
+中国
+5
+False
+加油
+6
+False
+
+
+True
+
+
+True
+
+
+True
+
+
+True
